@@ -25,10 +25,10 @@ Test environment:
 - OS：CentOS 7.6 64bit
 
 Synchronous log & single thread input:
-
+![SyncSig](./images/0.png)
 Synchronous log & five thread input:
-
+![SyncFive](./images/1.png)
 Asynchronous log & single thread input:
-
+![ASyncSig](./images/2.png)
 Asynchronous log & five thread input:
-
+![ASyncFive](./images/3.png)
